@@ -29,6 +29,8 @@ gem 'sdoc', '0.4.0',          group: :doc
 gem 'spring',        group: :development
 # use bootstrap for style
 gem 'bootstrap-sass', '3.3.1'
+# my own try to get font awesome up and running
+gem 'font-awesome-sass', '4.3.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 # Use unicorn as the app server
