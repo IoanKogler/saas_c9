@@ -31,6 +31,8 @@ gem 'spring',        group: :development
 gem 'bootstrap-sass', '3.3.1'
 # my own try to get font awesome up and running
 gem 'font-awesome-sass', '4.3.0'
+# our own installed gem for user authentication and maybe also payment systems
+gem 'devise', '3.4.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 # Use unicorn as the app server
